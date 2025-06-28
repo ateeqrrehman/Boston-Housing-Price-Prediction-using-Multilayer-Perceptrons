@@ -1,7 +1,8 @@
 # Boston-Housing-Price-Prediction-using-Multilayer-Perceptrons
 Predicting Boston housing prices using Multilayer Perceptrons (MLPs) with scikit-learn and PyTorch. Regression with depth and width tuning.
 
-**********************************************************************************************************************************************8
+****************************
+
 🧠 Boston Housing Price Prediction using Multilayer Perceptrons
 This project explores the use of Multilayer Perceptrons (MLPs) to solve a regression problem using the classic Boston housing dataset. The dataset contains 13 input features describing various aspects of residential homes in Boston, and one output variable — MEDV (median value of owner-occupied homes in $1000s).
 
